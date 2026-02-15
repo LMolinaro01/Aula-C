@@ -1,4 +1,3 @@
-```c
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 
 int main() { // Função principal
@@ -10,4 +9,4 @@ int main() { // Função principal
     printf("O número digitado foi: %d\n", numero); // Imprime o número digitado
     return 0; // Retorna 0 para indicar sucesso
 }
-```
+

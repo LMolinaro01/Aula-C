@@ -1,4 +1,3 @@
-```c
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 
 int main() { // Função principal
@@ -13,4 +12,4 @@ int main() { // Função principal
     printf("A temperatura em Fahrenheit é: %.2f\n", fahrenheit); // Imprime o resultado com 2 casas decimais
     return 0; // Retorna 0 para indicar sucesso
 }
-```
+

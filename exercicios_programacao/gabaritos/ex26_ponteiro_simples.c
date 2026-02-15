@@ -1,4 +1,3 @@
-```c
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 
 int main() { // Função principal
@@ -12,4 +11,4 @@ int main() { // Função principal
 
     return 0; // Retorna 0 para indicar sucesso
 }
-```
+

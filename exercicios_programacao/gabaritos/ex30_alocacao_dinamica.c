@@ -1,4 +1,3 @@
-```c
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 #include <stdlib.h> // Inclui a biblioteca padrão para funções como malloc e free
 
@@ -41,4 +40,3 @@ int main() { // Função principal
 
     return 0; // Retorna 0 para indicar sucesso
 }
-```

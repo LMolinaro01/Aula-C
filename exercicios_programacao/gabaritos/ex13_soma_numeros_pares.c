@@ -1,4 +1,3 @@
-```c
 #include <stdio.h> // Inclui a biblioteca padrão de entrada e saída
 
 int main() { // Função principal
@@ -14,4 +13,4 @@ int main() { // Função principal
     printf("A soma dos números pares de 1 a 50 é: %d\n", soma); // Imprime o resultado da soma
     return 0; // Retorna 0 para indicar sucesso
 }
-```
+
